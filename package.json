@@ -1,0 +1,16 @@
+{
+    "name": "three",
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {
+        "build": "rollup --config"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@rollup/plugin-typescript": "^2.1.0",
+        "rollup": "^1.29.0",
+        "tslib": "^1.10.0",
+        "typescript": "^3.7.4"
+    }
+}
